@@ -1,0 +1,12 @@
+101 single 12
+102 single 103
+103 double 0
+201 family 1
+202 double 102
+301 vip NULL
+302 family NULL
+401 single NULL
+402 single NULL
+403 double NULL
+404 double NULL
+405 double NULL
